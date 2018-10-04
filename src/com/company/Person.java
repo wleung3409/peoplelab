@@ -1,8 +1,7 @@
 package com.company;
 
 public class Person {
-        private String firstName;
-        private String familyName;
+        private String firstName, familyName;
 
         public Person(String firstName, String familyName) {
             this.firstName = firstName;
